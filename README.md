@@ -1,4 +1,4 @@
-# weisata_app
+# wisata_app
 
 A new Flutter project.
 
